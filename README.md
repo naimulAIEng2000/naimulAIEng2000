@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Naimul Islam
+# Hi 👋, I'm Naimul Islam
 ### Civil Engineer | Lecturer | Researcher
 ![Civil Engineer | Lecturer | Researcher](https://github.com/naimulAIEng2000/naimulAIEng2000/blob/main/Untitled%20design.png)
 
