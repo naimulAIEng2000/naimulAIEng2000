@@ -1,46 +1,32 @@
-<h1 align="center">Hi 👋, I'm Naimul Islam</h1>
-<h3 align="center">Civil Engineering Lecturer | Researcher | AI/ML Enthusiast from Bangladesh</h3>
+### Hi there 👋, my name is Naimul Islam
+#### Civil Engineer | Lecturer | Researcher
+![Civil Engineer | Lecturer | Researcher](https://github.com/naimulAIEng2000/naimulAIEng2000/blob/main/Untitled%20design.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naimul83&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Research-oriented civil engineer and lecturer with expertise in structural engineering, sustainable materials, and AI-assisted engineering. Published researcher and educator passionate about innovative, sustainable, and resilient infrastructure solutions.
 
----
+Skills: ETABS | AutoCAD | Python | Machine Learning | Structural Analysis
 
-### 👨‍🏫 About Me
+- 🔭 I’m currently working on AI/ML applications in Civil Engineering. 
+- 🌱 I’m currently learning Advanced Machine Learning and deep learning for structural engineering. 
+- 👯 I’m looking to collaborate on Research projects related to AI-assisted structural design, sustainable construction materials, and resilient infrastructure. 
+- 💬 Ask me about Python, Machine Learning,Deep Learning, ETABS, AutoCAD 
+- 📫 How to reach me: naimulislam_ce@lus.ac.bd | islamnaimul892@gmail.com  
+- ⚡ Fun fact: I secured 1st position among 25 students in my B.Sc. Civil Engineering batch and published two journal articles while working as a lecturer! 
 
-- 🔭 **Currently working on:** AI/ML applications in Civil Engineering (High-Performance Concrete, Earthquake-Resistant Systems)
-- 🎓 **Teaching:** Fluid Mechanics, CAD, Numerical Methods, Traffic Planning at **Leading University, Sylhet**
-- 📚 **Research Interests:** Structural Engineering, Sustainable Materials, Smart Infrastructure
-- 🏆 **Achievements:** 1st position in B.Sc. Civil Engineering (CGPA 3.83), Talent Pool Scholarship 2016
-- 📫 **Contact:** [naimulislam_ce@lus.ac.bd](mailto:naimulislam_ce@lus.ac.bd) | [islamnaimul892@gmail.com](mailto:islamnaimul892@gmail.com)
-- 🌐 **Find me:** [LinkedIn](your-link) | [ResearchGate](your-link) | [Google Scholar](your-link)
 
----
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naimulAIEng2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naimul-islam-3a3259281/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Naimul-Islam-16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?hl=en&user=7-RSQGYAAAAJ)  
 
-### 📄 Publications
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- **Prediction of high-performance concrete compressive strength using deep learning** – *Asian Journal of Civil Engineering* (2024) [DOI](https://doi.org/10.1007/s42107-023-00778-z)
-- **Sustainable rice husk ash concrete compressive strength prediction utilizing AI** – *Asian Journal of Civil Engineering* (2024) [DOI](https://doi.org/10.1007/s42107-023-00847-3)
-- **Structural performance evaluation of diagrid frame under earthquake load** – *ICCESD 2024* [Paper](http://www.iccesd.com/proc_2024/Papers/386.pdf)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naimulAIEng2000)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulAIEng2000)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🛠 Languages & Tools
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=naimulAIEng2000&show_icons=true)  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <!-- AutoCAD, ETABS এর জন্য icon না থাকলে টেক্সট লিখুন -->
-  <span><strong>ETABS | AutoCAD</strong></span>
-</p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/naimulAIEng2000/contributions?format=svg&private=false)  
 
----
+![GitHub metrics](https://metrics.lecoq.io/naimulAIEng2000)  
 
-### 📊 GitHub Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=naimulAIEng2000)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimul83&show_icons=true&theme=radical" alt="stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimul83&layout=compact&theme=radical" alt="top langs" width="48%"/>
-</p>
