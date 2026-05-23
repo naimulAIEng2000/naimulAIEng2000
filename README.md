@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Naimul Islam
-#### Civil Engineer | Lecturer | Researcher
+## Hi there 👋, my name is Naimul Islam
+### Civil Engineer | Lecturer | Researcher
 ![Civil Engineer | Lecturer | Researcher](https://github.com/naimulAIEng2000/naimulAIEng2000/blob/main/Untitled%20design.png)
 
 Research-oriented civil engineer and lecturer with expertise in structural engineering, sustainable materials, and AI-assisted engineering. Published researcher and educator passionate about innovative, sustainable, and resilient infrastructure solutions.
@@ -7,7 +7,7 @@ Research-oriented civil engineer and lecturer with expertise in structural engin
 Skills: ETABS | AutoCAD | Python | Machine Learning | Structural Analysis
 
 - 🔭 I’m currently working on AI/ML applications in Civil Engineering. 
-- 🌱 I’m currently learning Advanced Machine Learning and deep learning for structural engineering. 
+- 🌱 I’m currently learning Advanced Machine Learning and Deep Learning for structural engineering. 
 - 👯 I’m looking to collaborate on Research projects related to AI-assisted structural design, sustainable construction materials, and resilient infrastructure. 
 - 💬 Ask me about Python, Machine Learning,Deep Learning, ETABS, AutoCAD 
 - 📫 How to reach me: naimulislam_ce@lus.ac.bd | islamnaimul892@gmail.com  
